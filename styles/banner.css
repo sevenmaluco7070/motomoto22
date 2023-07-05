@@ -34,4 +34,12 @@ margin: 1em 0;
     padding: 1em;
     width: 100%;
 }
-
+.banner__pesquisa::placeholder{
+    font-family:var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: var(--branco);
+    background: erl("../img/Lupa.svg") no-repeat;
+    background-position:1em;
+}
