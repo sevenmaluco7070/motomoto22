@@ -43,3 +43,10 @@ margin: 1em 0;
     background: erl("../img/Lupa.svg") no-repeat;
     background-position:1em;
 }
+
+.carrossel__titulo{
+    color: var(--laranja);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+}
